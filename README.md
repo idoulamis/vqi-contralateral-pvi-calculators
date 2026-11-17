@@ -19,3 +19,7 @@ The model that does not require contralateral WIfI was fit in 70,410 patients. T
 These are research prototypes, not clinically validated decision tools or treatment recommendations. Do not use the estimates to guide individual patient care.
 
 The pages run locally in the browser. Form values are not transmitted. No patient-level records are included in this site package.
+
+## Deployment
+
+GitHub Pages is deployed from the `main` branch with the workflow in `.github/workflows/pages.yml`.
